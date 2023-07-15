@@ -96,6 +96,63 @@ extreme poverty, educational backwardness, lack of access to services of health 
 and the lack of quality in the household materials and services, this taken from the index proposed
 by the National Council for the Evaluation of Social Development Policy (Coneval).
 
+## Data and Methodology
+
+For this project it was used three main sources, all official from the Mexican government. For the
+data on social vulnerabilities, we extract the data from the National Council for the Evaluation of
+Social Development Policy (Coneval), in its studies on Poverty at the municipality level from 2015
+and 2020. The second source was the National Institute of Statistics and Geography (INEGI), from
+this we extract the total population of each city in Mexico, and we obtained the SHP filetype that
+allowed us to make the plotting of the political results and levels of poverty all over the country.
+And thirdly, we use the official results of the elections for mayor in 2018 and 2021 from the 32
+Electoral Local Public Organizations (OPLEs).
+For the methodology, the first step was the construction of the indicator through the census
+statistics, to have the total population of each city (2015, 2018, 2021) in 25 of 32 states. The
+methodology used for the analysis is geospatial analysis to correlate each municipality’s
+vulnerability rate with the electoral results. Also, it was used a multiple linear regression analysis
+to identify how strong the relationship between the variables that we are considering. The
+dependent variable is Victories in local elections to Major positions for this it was created the
+
+indicator for each election period “Winner_2018” and “Winner_2021”. The independent variables:
+the set of indicators of social vulnerability proposed by Coneval and that is described in the formula
+below.
+Then, the downloading and cleaning of the database of social vulnerabilities was made and
+merged using the dplyr package in R. The major challenge came with the tracking and
+downloading of all the datasets of electoral results, as each OPLE has its landing webpage, and the
+accessibility was not always friendly (difficulty finding the results in the web ecosystem). Once
+all the electoral results were, we used a loop code in R to merge all the results into one single data
+frame for the results of 2018 and 2021.
+Once we get those three data frames (social vulnerability, and electoral results from 2018,
+and 2021), we merged them using the CVEGEO code of each city. Once we had built the final data
+frame, we ran two models of multiple linear regression analysis to identify how strong the
+relationship between the variables that we are considering is. The two equations model are the
+following: For 2018 =
+Winner party ~ population 2015 + percentage of poverty in 2015
++ percentage of extreme poverty in 2015
++ percentage of population with at least one social lack in 2015
++ percentage of population with educational backwards in 2015
++ percentage of population that is vulnerable by its income in 2015
++ percentage of population that is not poor or vulnerable in 2015
++ percentage of population with lack of social security in 2015
++ percentage of population with lack of health services in 2015
++ percentage of population with lack of quality and spaces in their household in 2015
++ percentage of population with income below the line of poverty in 2015.
+• For 2021 =
+
+Winner party ~ population in 2021 + percentage of poverty in 2021
++ percentage of extreme poverty in 2021
++ percentage of population with at least one social lack in 2021
++ percentage of population with educational backwards in 2021
++ percentage of population that is vulnerable by its income in 2021
++ percentage of population that is not poor or vulnerable in 2021
++ percentage of population with lack of social security in 2021
++ percentage of population with lack of health services in 2021
++ percentage of population with lack of quality and spaces in their household in 2021
++ percentage of population with income below the line of poverty in 2021.
+Besides the core analysis, it was used the SHP file of the country to geo-represent the
+presence of poverty and the electoral results of each of the years of interest using GIStool, Ggplot2,
+and raster packages in R.
+
 ## Analysis
 
 [Describe your analysis methods and include any visualizations or graphics that you used to present your findings. Explain the insights that you gained from your analysis and how they relate to your research question or problem statement.]
