@@ -23,11 +23,17 @@ preferences.
 
 ## Getting Started
 
-[Provide instructions on how to get started with your project, including any necessary software or data. Include installation instructions and any prerequisites or dependencies that are required.]
+For this project it was used the R studio Program, and it was reuiqered to have installed the packages of dplyr, raster, GISTools and Readxl
 
-## File Structure
+## File Structure - Introduction
 
-[Describe the file structure of your project, including how the files are organized and what each file contains. Be sure to explain the purpose of each file and how they are related to one another.]
+Inequality and “classism” are one of manly the socioeconomic challenges of Mexican society.
+México is one of the most unequal countries, not only in the region but in the world (Jusidman,
+2009), and even if the official data may show little advances in some economic sectors like the
+remittances and rural activities diversification, the situation of far from being resolved, and this
+has caused that other related problems to appear in different arenas, like the political, as the
+inequality has historical roots and with the past of time it has found a way to be expressed in a
+multifactorial form.
 
 ## Analysis
 
