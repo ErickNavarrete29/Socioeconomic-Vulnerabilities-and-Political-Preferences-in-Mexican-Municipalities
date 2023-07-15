@@ -2,7 +2,7 @@
 
 ## Project Description (Abstract)
 
-Abstract: This study focuses on identifying the elements involved in the political
+This study focuses on identifying the elements involved in the political
 preferences in the Mexican municipalities during the Major elections of 2018 and 2021
 to detect if exists a relationship between socioeconomic vulnerabilities and the preference
 for some parties as many people argue each election. The methodology used is
@@ -14,10 +14,10 @@ regression, we found that for 2018 the access to health services and the percent
 people in extreme poverty have statistical significance, and for 2021 only the first one
 
 has statistical significance. This demonstrates that the arguments created around socio-
-economic vulnerabilities and the relationship with voting preferences could be a stigma
-
+economic vulnerabilities and the relationship with voting preferences could be a stigma 
 created to underestimate the capacity of people living with vulnerabilities to decide their
 political preferences.
+
 Keywords: vulnerabilities, Mexico, political parties, municipalities, poverty, political
 preferences.
 
