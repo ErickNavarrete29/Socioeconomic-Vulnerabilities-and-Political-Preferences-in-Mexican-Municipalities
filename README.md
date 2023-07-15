@@ -163,12 +163,49 @@ and raster packages in R.
 
 ## Contributors
 
-[List the contributors to your project and describe their roles and responsibilities.]
+Yare Ramirez Garrido - Research, coding and writing
+Erick Armando Navarrete Segovia - Research, coding and writing
+
 
 ## Acknowledgments
 
-[Thank any individuals or organizations who provided support or assistance during your project, including funding sources or data providers.]
+Professor Torrent (Chung-pei Pien) for his teching in R coding.
 
 ## References
 
-[List any references or resources that you used during your project, including data sources, analytical methods, and tools.]
+Berens, S. (2017). “Taxing Higher Incomes: What Makes the High-Income Earners Consent to More
+Progressive Taxation in Latin America?” Political. Behavior 39, 3: 703–29.
+Carnes, E. (2013). “Measuring the Individual-Level Determinants of Social Insurance Preferences: Survey
+Evidence from the 2008 Argentine Pension Nationalization”. Latin American Research Review 48,
+3: 10
+Cortina, J. & Gelman, A. (2006). “Income and vote choice in the 2000 Mexican presidential election”.
+Social Science Research Network (SSRN).
+Feierherd, G. (2021). “Courting Informal Workers: Exclusion, Forbearance, and the Left. American Journal
+of Political Science”, December 24. https://onlinelibrary.wiley.com/doi/10.1111/ajps.12576.
+Jusidman, C. (2009). “Desigualdad y política social en México. Nueva Sociedad”. Retrieved 25 of June
+
+2023. Source: https://nuso.org/articulo/desigualdad-y-politica-social-en-
+mexico/#:~:text=M%C3%A9xico%20sufre%20una%20alta%20desigualdad,%C3%ADndices%2
+
+0de%20desigualdad%20muy%20altos.
+Lipset, M. (1960). Political Man: The Social Bases of Politics. Garden City: Doubleday
+Lugo Neria, B. (2021). Elecciones de ayuntamientos en Hidalgo (2008-2020): determinantes de la
+participación electoral City Council Elections in the State of Hidalgo 2008-2020: The Determinants
+of Electoral Participation (Vol. 65).
+National Council for the Evaluation of Social Development Policy (Coneval), (2023). “Statistics on
+
+Municipal poverty 2010 – 2020”. Source: https://www.coneval.org.mx/Medicion/Paginas/Pobreza-
+municipio-2010-2020.aspx.
+
+National Institute of Statistics and Geography (INEGI). (2023). “Census 2020”. Source:
+https://www.inegi.org.mx/programas/ccpv/2020/.
+National Electoral Institute (INE). (2023). “Official Sites of the Electoral Local Public Organizations
+(OPLEs)”. Source: https://portal.ine.mx/voto-y-elecciones/opl/oples-estados/.
+Soto, I. & Cortez, W. (2014). “Determinantes de la participación electoral en México”. Estudios
+Sociológicos, 32 (95), 323-353.
+Sura-Fonseca, R. (2019). “El vínculo entre la pobreza y la desigualdad con la participación electoral
+ciudadana: las elecciones presidenciales de 2006 y 2014 en Costa Rica”. Revista Mexicana de
+Ciencias Políticas y Sociales, 64 (235), 189-220.
+Vargas, E. (2012). Vulnerabilidad_social_y_comportamiento electoral. Un análisis por secciones
+electorales. Universidad Autónoma del Estado de México.
+Verba, S. & Nie, H. (1972). Participation in America. Nueva York: Harper and Row.
