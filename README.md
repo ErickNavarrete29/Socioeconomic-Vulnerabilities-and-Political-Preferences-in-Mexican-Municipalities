@@ -1,8 +1,25 @@
 # Socioeconomic Vulnerabilities and Political Preferences in Mexican Municipalities
 
-## Project Description
+## Project Description (Abstract)
 
-[Enter a brief description of your project, including the data you used and the analytical methods you applied. Be sure to provide context for your project and explain why it is important.]
+Abstract: This study focuses on identifying the elements involved in the political
+preferences in the Mexican municipalities during the Major elections of 2018 and 2021
+to detect if exists a relationship between socioeconomic vulnerabilities and the preference
+for some parties as many people argue each election. The methodology used is
+quantitative with a data panel that structures the electoral preference of each municipality
+as a dependent variable with the created variables “winner_2018” and “winner_2021”,
+taking as independent variables the vulnerability index proposed by the National Council
+for the Evaluation of Social Development Policy (Coneval). With multiple linear
+regression, we found that for 2018 the access to health services and the percentage of
+people in extreme poverty have statistical significance, and for 2021 only the first one
+
+has statistical significance. This demonstrates that the arguments created around socio-
+economic vulnerabilities and the relationship with voting preferences could be a stigma
+
+created to underestimate the capacity of people living with vulnerabilities to decide their
+political preferences.
+Keywords: vulnerabilities, Mexico, political parties, municipalities, poverty, political
+preferences.
 
 ## Getting Started
 
