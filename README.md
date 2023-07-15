@@ -1,6 +1,4 @@
-# Project Title
-
-Socioeconomic Vulnerabilities and Political Preferences in Mexican Municipalities
+# Socioeconomic Vulnerabilities and Political Preferences in Mexican Municipalities
 
 ## Project Description
 
